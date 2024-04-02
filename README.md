@@ -29,5 +29,5 @@ Before running this application locally, make sure you have the following instal
 1. Clone the repository:
 
    ```bash
-https://github.com/PiyushPanwarFST/Dice-Game
+    https://github.com/PiyushPanwarFST/Dice-Game
 

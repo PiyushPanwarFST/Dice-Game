@@ -4,13 +4,12 @@
 
 ## Overview
 
-This is a simple dice game application built using React.js. It allows users to roll two dice and calculate the sum of their values.
+This is a simple dice game application built using React.js. It allows users to roll a dice and matche the value with selected value and if value does't matches then subtract -2 from the sum.
 
 ## Features
 
-- **Roll Dice:** Click on the "Roll Dice" button to roll two dice.
+- **Roll Dice:** Click on the "Roll Dice" button to roll a dice.
 - **Calculate Sum:** The application automatically calculates the sum of the values shown on the dice.
-- **Winning Condition:** If the sum is 7 or 11, the user wins; otherwise, they lose.
 
 ## Technologies Used
 
@@ -30,5 +29,5 @@ Before running this application locally, make sure you have the following instal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/dice-game-app.git
+https://github.com/PiyushPanwarFST/Dice-Game
 

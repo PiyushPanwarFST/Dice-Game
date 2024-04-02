@@ -1,6 +1,7 @@
 # Dice Game App
 
-![Dice Game App Screenshot](screenshot.png)
+<img width="1234" alt="Screenshot 2024-04-02 at 5 09 29 PM" src="https://github.com/PiyushPanwarFST/Dice-Game/assets/153702744/a3f3dd02-94e5-42e9-9606-72cf8bde36cd">
+
 
 ## Overview
 
@@ -29,5 +30,5 @@ Before running this application locally, make sure you have the following instal
 1. Clone the repository:
 
    ```bash
-    https://github.com/PiyushPanwarFST/Dice-Game
+             https://github.com/PiyushPanwarFST/Dice-Game
 
